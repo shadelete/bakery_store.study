@@ -27,10 +27,190 @@
   ],
   "items": [
     {
-      "name": "Orange Juice",
-      "price": 1.80,
-      "description": "Good Orange Juice",
+      "name": "Sun Tropics Organic Mango Nectar",
+      "price": 2.25,
+      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice",
       "category": "Juice",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F492%2FJuice-1_lx8xnf.jpg&w=640&q=75"
+    },
+    {
+      "name": "Kirkland Organic Lemonade",
+      "price": 1.50,
+      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice..",
+      "category": "Juice",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F491%2FJuice4_1_xt54si.jpg&w=640&q=75"
+    },
+    {
+      "name": "Wonderful Pomegranate Juice",
+      "price": 2.40,
+      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice",
+      "category": "Juice",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F805%2FJuice5_bz8od4.jpg&w=640&q=75"
+    },
+    {
+      "name": "Pressed Juicery Super Citrus Plus",
+      "price": 1.90,
+      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice",
+      "category": "Juice",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F604%2FOrganic-orange-juice-1.png&w=640&q=75"
+    },
+    {
+      "name": "Ritai Organic Orange Juice",
+      "price": 1.25,
+      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice",
+      "category": "Juice",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F795%2FJuice2_lnhqsp.jpg&w=640&q=75"
+    },
+    {
+      "name": "Kirkland Cranberry Juice Cocktail",
+      "price": 2.00,
+      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.",
+      "category": "Juice",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F799%2FJuice1_nc4tbk.jpg&w=640&q=75"
+    },
+
+    "END JUICE | END JUICE | END JUICE | END JUICE | END JUICE | END JUICE | END JUICE | END JUICE | END JUICE | ",
+
+    {
+      "name": "Fresh Grinded Frappé coffee",
+      "price": 1.25,
+      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
+      "category": "Coffee",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F496%2FCoffee_Tea-5_ktc2il.jpg&w=640&q=75"
+    },
+    {
+      "name": "Caffee Nero Mocha Late",
+      "price": 1.50,
+      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
+      "category": "Coffee",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F820%2FCoffee_Tea-3_zlgz6x.jpg&w=640&q=75"
+    },
+    {
+      "name": "Nescafe Clasico Instant Coffee",
+      "price": 0.70,
+      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
+      "category": "Coffee",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F824%2FCoffee_Tea-6_wlaqgp.jpg&w=640&q=75"
+    },
+    {
+      "name": "Freshly Brewed Black Coffee",
+      "price": 1.55,
+      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
+      "category": "Coffee",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F816%2FCoffee_Tea-2_gblecp.jpg&w=640&q=75"
+    },
+    {
+      "name": "Peet Coffee Decaf Major Dickason Blend",
+      "price": 2.50,
+      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
+      "category": "Coffee",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F501%2FCoffee_Tea-7_nijstz.jpg&w=640&q=75"
+    },
+    "END COFFEE | END COFFEE | END COFFEE | END COFFEE | END COFFEE | END COFFEE | END COFFEE | END COFFEE | END COFFEE | ",
+    {
+      "name": "Freshly Brewed Organic Green Tea",
+      "price": 0.50,
+      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
+      "category": "Tea",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F809%2FCoffee_Tea_oo00oz.jpg&w=640&q=75"
+    },
+    {
+      "name": "Fresh Traditional English Tea",
+      "price": 0.50,
+      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
+      "category": "Tea",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F499%2FCoffee_Tea-1_rnxxwg.jpg&w=640&q=75"
+    },
+    "END TEA | END TEA | END TEA | END TEA | END TEA | END TEA | END TEA | END TEA | END TEA | END TEA | END TEA | END TEA | ",
+    {
+      "name": "Raspberry Crumble Cookies",
+      "price": 3.50,
+      "description": "A cookie is a baked or cooked food that is typically small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts.",
+      "category": "Cookies",
+      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F828%2FCookies-4_vmbpqm.jpg&w=640&q=75"
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
       "image": ""
     },
     {
