@@ -48,27 +48,6 @@
       "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F805%2FJuice5_bz8od4.jpg&w=640&q=75"
     },
     {
-      "name": "Pressed Juicery Super Citrus Plus",
-      "price": 1.90,
-      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice",
-      "category": "Juice",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F604%2FOrganic-orange-juice-1.png&w=640&q=75"
-    },
-    {
-      "name": "Ritai Organic Orange Juice",
-      "price": 1.25,
-      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice",
-      "category": "Juice",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F795%2FJuice2_lnhqsp.jpg&w=640&q=75"
-    },
-    {
-      "name": "Kirkland Cranberry Juice Cocktail",
-      "price": 2.00,
-      "description": "Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice.",
-      "category": "Juice",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F799%2FJuice1_nc4tbk.jpg&w=640&q=75"
-    },
-    {
       "name": "Fresh Grinded Frappé coffee",
       "price": 1.25,
       "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
@@ -88,20 +67,6 @@
       "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
       "category": "Coffee",
       "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F824%2FCoffee_Tea-6_wlaqgp.jpg&w=640&q=75"
-    },
-    {
-      "name": "Freshly Brewed Black Coffee",
-      "price": 1.55,
-      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
-      "category": "Coffee",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F816%2FCoffee_Tea-2_gblecp.jpg&w=640&q=75"
-    },
-    {
-      "name": "Peet Coffee Decaf Major Dickason Blend",
-      "price": 2.50,
-      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
-      "category": "Coffee",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F501%2FCoffee_Tea-7_nijstz.jpg&w=640&q=75"
     },
     {
       "name": "Freshly Brewed Organic Green Tea",
@@ -139,13 +104,6 @@
       "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F504%2FCookies_lquuja.jpg&w=640&q=75"
     },
     {
-      "name": "Freshly Baked Mixed Cookies",
-      "price": 4.50,
-      "description": "A cookie is a baked or cooked food that is typically small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts.",
-      "category": "Cookies",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F505%2FCookies-1_d8mfwp.jpg&w=640&q=75"
-    },
-    {
       "name": "Signature Chocolate Cake Iced Fudge",
       "price": 11.20,
       "description": "Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations",
@@ -167,13 +125,6 @@
       "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F630%2FChocolate-Cake-1.png&w=640&q=75"
     },
     {
-      "name": "Signature German Chocolate Cake",
-      "price": 10.70,
-      "description": "Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked. In their oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations",
-      "category": "Cakes",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F633%2FChocolate-Cake-1.png&w=640&q=75"
-    },
-    {
       "name": "Thomas Cinnamon Raisin English Muffins",
       "price": 1.00,
       "description": "griddle and a cupcake-like quickbread that is chemically leavened and then baked in a mold.",
@@ -193,13 +144,6 @@
       "description": "griddle and a cupcake-like quickbread that is chemically leavened and then baked in a mold.",
       "category": "Muffin",
       "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F529%2FMuffin-1_hs5kyi.jpg&w=640&q=75"
-    },
-    {
-      "name": "Betty Crocker Wild Blueberry Muffin",
-      "price": 1.25,
-      "description": "griddle and a cupcake-like quickbread that is chemically leavened and then baked in a mold.",
-      "category": "Muffin",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F528%2FMuffin-6_uomrzu.jpg&w=640&q=75"
     }
   ]
 }
