@@ -62,13 +62,6 @@
       "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F820%2FCoffee_Tea-3_zlgz6x.jpg&w=640&q=75"
     },
     {
-      "name": "Nescafe Clasico Instant Coffee",
-      "price": 0.70,
-      "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
-      "category": "Coffee",
-      "image": "https://pickbazar-react.vercel.app/_next/image?url=https%3A%2F%2Fpickbazarlaravel.s3.ap-southeast-1.amazonaws.com%2F824%2FCoffee_Tea-6_wlaqgp.jpg&w=640&q=75"
-    },
-    {
       "name": "Freshly Brewed Organic Green Tea",
       "price": 0.50,
       "description": "Coffee tea refers to herbal tea made from non-bean parts of the coffea (coffee plant), and may refer to: Coffee-leaf tea · Coffee cherry tea. Ground coffee, brewed",
