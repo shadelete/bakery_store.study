@@ -1,0 +1,44 @@
+{
+  "categoryList": [
+    {
+      "name": "Juice",
+      "icon": "../../src/img/juice.png"
+    },
+    {
+      "name": "Coffee",
+      "icon": "../../src/img/coffee.png"
+    },
+    {
+      "name": "Tea",
+      "icon": "../../src/img/tea.png"
+    },
+    {
+      "name": "Cookies",
+      "icon": "../../src/img/cookies.png"
+    },
+    {
+      "name": "Cakes",
+      "icon": "../../src/img/cakes.png"
+    },
+    {
+      "name": "Muffin",
+      "icon": "../../src/img/muffin.png"
+    }
+  ],
+  "items": [
+    {
+      "name": "Orange Juice",
+      "price": 1.80,
+      "description": "Good Orange Juice",
+      "category": "Juice",
+      "image": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 1.90,
+      "description": "Hot Black Tea",
+      "category": "Tea",
+      "image": ""
+    }
+  ]
+}
