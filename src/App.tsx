@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import Header from "./Components/Header/Header";
-import SearchBar from "./Components/SearchBar/SearchBar";
 import Items from "./Components/Items/Items";
+import Hero from "./Components/Hero";
 
 function App() {
   return (
     <div className="App">
 		<Header/>
-		<SearchBar/>
+		<Hero/>
 		<Items/>
     </div>
   );

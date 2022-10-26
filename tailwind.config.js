@@ -4,7 +4,7 @@ module.exports = {
         "./src/**/*.{js,jsx,ts,tsx}",
     ],
     theme: {
-        extend: {},
+        extend: {"space-between": "justify-content: space-between"}
     },
     plugins: [],
 }
