@@ -7,7 +7,7 @@ import Checkout from "./Components/Checkout";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App relative">
 		<Checkout/>
 		<Header/>
 		<Hero/>

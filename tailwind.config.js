@@ -10,7 +10,8 @@ module.exports = {
             },
             colors: {
                 'checkout': "#FF9100",
-                'checkout-hover': "#C67200"
+                'checkout-hover': "#C67200",
+                'modal' : "#5858586b"
             }
         }
     },
