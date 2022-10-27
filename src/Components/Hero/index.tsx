@@ -3,14 +3,14 @@ import SearchBar from "../Elements/searchBar";
 
 const Hero = () => {
 	return (
-		<section className="relative">
-			<div className="container pt-40">
-				<h1>Get Your Bakery Items Delivered</h1>
+		<section className="relative bg-hero bg-cover">
+			<div className="container py-40">
+				<h1 className="font-bold">Get Your Bakery Items Delivered</h1>
 				<br/>
-				<p>Get your favorite bakery items baked and delivered to your doorsteps at any time</p>
+				<p className="text-gray-500 font-normal">Get your favorite bakery items baked and delivered to your doorsteps at any time</p>
 				<br/>
+				<SearchBar/>
 			</div>
-			<SearchBar/>
 		</section>
 	);
 };

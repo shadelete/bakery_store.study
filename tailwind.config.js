@@ -4,7 +4,15 @@ module.exports = {
         "./src/**/*.{js,jsx,ts,tsx}",
     ],
     theme: {
-        extend: {"space-between": "justify-content: space-between"}
+        extend: {
+            backgroundImage: {
+                'hero': "url('./assets/img/hero-bg.webp')"
+            },
+            colors: {
+                'checkout': "#FF9100",
+                'checkout-hover': "#C67200"
+            }
+        }
     },
     plugins: [],
 }
